@@ -17,4 +17,4 @@ Asegúrate de tener instalado lo siguiente:
 - [Node.js](https://nodejs.org/) (v16 o superior recomendado)
 - [MongoDB](https://www.mongodb.com/)
 
-## DIOS SE APIADE DE TODOS NOSOTROS EN EL EXTRA AMEN
+## TODO VA A ESTAR BIEN 
