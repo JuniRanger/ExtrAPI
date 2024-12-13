@@ -5,7 +5,6 @@ Este proyecto es una API RESTful desarrollada con Node.js, Express y MongoDB par
 ## Características
 
 - Registro e inicio de sesión de usuarios.
-- Estructura modular con carpetas `src` para escalabilidad.
 - Conexión con MongoDB usando Mongoose.
 - Manejo de errores y validaciones básicas.
 - Variables de entorno para configuración segura.
